@@ -1,0 +1,58 @@
+{
+  "name": "Ezra Harris",
+  "type": "personal",
+  "bio": "I am a 13 year old tech enthusiast I tinker with 3D printing and computers",
+  "avatar": "https://github.com/billydabones.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/BillyDaBones",
+      "icon": "github"
+    },
+    {
+      "name": "Follow Me on Instagram",
+      "url": "https://instagram.com/ezradharris",
+      "icon": "instagram"
+    }
+    {
+      "name": "My Blog",
+      "url": "https://blog.ezraharris.com",
+      "icon": "https://blog.ezraharris.com/wp-content/uploads/2021/09/cropped-cropped-certificate.png"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "",
+      "date": "",
+      "icon": "",
+      "color": "green",
+      "description": "",
+      "url": "https://blog.ezraharris.com"
+    }
+	{
+      "title": "Started 3D Printing",
+      "date": "March, 2020",
+      "icon": "https://www.creativefabrica.com/wp-content/uploads/2021/06/12/3d-printing-icon-Graphics-13313078-1-1-580x386.jpg",
+      "color": "green",
+      "description": "First time with handling 3D printing, borrowed 3D Printer '(the Printrbot Simple Metal) from my brother. Until bought my own printer 3 months later' ",
+      "url": "https://blog.ezraharris.com/printrbot/"
+    }
+    {
+      "title": "Bought Domain",
+      "date": "May, 2020",
+      "icon": "https://www.elegantthemes.com/blog/wp-content/uploads/2020/10/featured-what-is-domain.png",
+      "color": "blue",
+      "description": "Bought my first domain, ezraharris.com",
+      "url": "https://blog.ezraharris.com"
+    }
+	
+    {
+      "title": "Started Blog",
+      "date": "October, 2015",
+      "icon": "globe",
+      "color": "blue",
+      "description": "Started my first Blog on Posthaven.com!",
+      "url": "https://blog.ezraharris.com"
+    }
+  ]
+}
